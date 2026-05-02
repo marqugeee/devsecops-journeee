@@ -3,7 +3,7 @@
 ## Mission
 Army Signal Corps officer and Biochemistry graduate
 transitioning into Cloud Security and DevSecOps.
-Targeting Lockheed Martin and Georgia Tech OMSCS.
+Targeting cloud engineering roles and experience and UT Austin or Georgia Tech.
 
 ## Certifications in Progress
 - [ ] CompTIA Linux+ — Target: May 29, 2026
