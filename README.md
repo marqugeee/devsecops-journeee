@@ -1,4 +1,7 @@
-# DevSecOps Journey — G. Granger
+## Weekly Progress
+| Week | Focus | Scripts Built | Key Concepts |
+|------|-------|---------------|--------------|
+| Week 1 | WSL2 Setup + Bash Scripting | 5 | DNS, chmod, users, groups, log analysis |# DevSecOps Journey — G. Granger
 
 ## Mission
 Army Signal Corps officer and Biochemistry graduate
