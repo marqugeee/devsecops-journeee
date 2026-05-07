@@ -1,10 +1,10 @@
-#DevSecOps Journey - G. Granger
+# DevSecOps Journey — G. Granger
 
 ## Mission
 Army Signal Corps officer and Biochemistry graduate
 transitioning into Cloud Security and DevSecOps.
-Targeting Graduate School Spring 2027 - Computer Science
-(UT Austin MSCS/ Georgia Tech OMSCS)
+Targeting Graduate School Spring 2027 — Computer Science
+(UT Austin MSCS / Georgia Tech OMSCS)
 
 ## Certifications in Progress
 - [ ] CompTIA Linux+ — Target: May 29, 2026
@@ -27,7 +27,7 @@ Targeting Graduate School Spring 2027 - Computer Science
 - Introduction to Linux Full Course — FreeCodeCamp / Beau Carnes
 - 10 Common Linux Issues and How to Fix Them — Learn Linux TV
 - The Linux File System Explained — NetworkChuck
-- Beginners Guide to the Linux Terminal — DistroTube
+- Beginner's Guide to the Linux Terminal — DistroTube
 - Linux+ Full Course — Professor Messer
 
 ## Stack
